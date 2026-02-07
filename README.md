@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar Tiwari</h1>
 <h3 align="center">Full Stack Developer | Building Real-Time & Scalable Apps</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;System+Design+Learner;Always+Building+Cool+Stuff" />
+</p>
+
+
 <!--
 **Saurabhkumargit/saurabhkumargit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
