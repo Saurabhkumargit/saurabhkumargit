@@ -5,6 +5,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;System+Design+Learner;Always+Building+Cool+Stuff" />
 </p>
 
+🚀 Final-year engineering student passionate about building scalable web applications.
+
+💡 Currently working on:
+- Real-time collaborative code editor
+- Football calendar project (Next.js + MERN)
+
+🧠 Learning:
+- CI/CD (GitHub Actions, AWS CodePipeline)
+- Docker & Cloud Deployment
+
+🎯 Goal: Become a strong full-stack engineer with system design expertise.
+
 
 <!--
 **Saurabhkumargit/saurabhkumargit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
