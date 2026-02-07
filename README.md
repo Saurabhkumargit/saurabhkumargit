@@ -26,6 +26,34 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 
+## 📊 GitHub Stats
+
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhkumargit&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkumargit&layout=compact&theme=tokyonight)
+
+### 🔥 Real-Time Collaborative Code Editor
+
+A WebSocket-powered collaborative coding platform with room-based architecture and real-time synchronization.
+
+**Tech Stack:** React, Node.js, Express, Socket.io  
+**Concepts Used:** WebSockets, State Synchronization, Event-Driven Architecture, Session Persistence
+
+### ⚙️ System Monitor & Containerized Metrics Dashboard
+
+A Dockerized full-stack system metrics dashboard for real-time CPU and memory monitoring.
+
+**Tech Stack:** TypeScript, Node.js, React  
+**DevOps:** Docker, Containerization  
+**Concepts Used:** System Metrics Collection, API Design, Containerization, Deployment Readiness
+
+### 📦 Inventory Management REST API
+
+A modular REST API for managing products, stock tracking, and reservation workflows.
+
+**Tech Stack:** Node.js, Express, MongoDB  
+**Concepts Used:** REST API Design, MVC Architecture, Database Modeling, Error Handling
+
 
 
 <!--
