@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saurabh Kumar Tiwari</h1>
+<h3 align="center">Full Stack Developer | Building Real-Time & Scalable Apps</h3>
 
 <!--
 **Saurabhkumargit/saurabhkumargit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
