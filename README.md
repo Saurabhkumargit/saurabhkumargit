@@ -12,7 +12,6 @@
 Final-year engineering student focused on building scalable, real-world web applications with clean architecture and production-ready practices.
 
 - 🔭 Currently building a **Real-Time Collaborative Code Editor**
-- ⚽ Developing a **Football Fixtures Calendar (Next.js + MERN)**
 - 🧠 Learning **CI/CD pipelines, Docker, and deployment workflows**
 - 🎯 Goal: Become a strong full-stack engineer with system design expertise
 
